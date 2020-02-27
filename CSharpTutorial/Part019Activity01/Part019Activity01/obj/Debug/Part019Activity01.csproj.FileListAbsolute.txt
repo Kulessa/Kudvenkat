@@ -1,0 +1,6 @@
+C:\crk\Cursos\Kudvenkat\CSharpTutorial\Part019Activity01\Part019Activity01\bin\Debug\Part019Activity01.exe.config
+C:\crk\Cursos\Kudvenkat\CSharpTutorial\Part019Activity01\Part019Activity01\bin\Debug\Part019Activity01.exe
+C:\crk\Cursos\Kudvenkat\CSharpTutorial\Part019Activity01\Part019Activity01\bin\Debug\Part019Activity01.pdb
+C:\crk\Cursos\Kudvenkat\CSharpTutorial\Part019Activity01\Part019Activity01\obj\Debug\Part019Activity01.csprojAssemblyReference.cache
+C:\crk\Cursos\Kudvenkat\CSharpTutorial\Part019Activity01\Part019Activity01\obj\Debug\Part019Activity01.exe
+C:\crk\Cursos\Kudvenkat\CSharpTutorial\Part019Activity01\Part019Activity01\obj\Debug\Part019Activity01.pdb
